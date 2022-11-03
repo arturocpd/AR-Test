@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AppleWatch</members>
-        <members>AppleWatchTest</members>
-        <name>ApexClass</name>
+        <members>Battle_Station_Construction</members>
+        <name>CustomApplication</name>
     </types>
     <types>
-        <members>AppleWatch</members>
-        <name>ApexTrigger</name>
+        <members>Battle_Station__c.Speed__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Battle_Station__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Battle_Station__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Battle_Station_Construction_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Battle_Station__c-Battle Station Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Battle_Station__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
     <version>55.0</version>
 </Package>
